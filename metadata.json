@@ -1,0 +1,7 @@
+{
+  "name": "Remix: CEK GIRO SCAN",
+  "description": "Aplikasi PWA modern untuk memindai dan memverifikasi giro atau cek bank menggunakan AI OCR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
